@@ -31,10 +31,3 @@
 ### 🚀 Projects
 * **[Vigil](https://github.com/dovidee/vigil)** – Modular, high-concurrency reconnaissance framework with stateful delta-tracking. 
 * **[Kartverket Project](https://github.com/letsgorm/KartverketProject)** – Obstacle registration system for pilots.
-
----
-
-### 📉 Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dovidee&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Stats" width="400">
-</p>
