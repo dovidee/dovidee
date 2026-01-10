@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RobjB3ZHMxcGp5enZjNTF3NTBwZnhrZmg1dGIzejFlZXRwbnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif" width="600" alt="System Analysis Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RobjB3ZHMxcGp5enZjNTF3NTBwZnhrZmg1dGIzejFlZXRwbnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif" width="100" alt="System Analysis Animation">
 </p>
 
 ### 📡 Status
