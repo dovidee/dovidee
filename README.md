@@ -16,6 +16,7 @@
     <td width="65%" valign="top" style="padding-left: 20px;">
       <h1 align="center">dovidee</h1>
       <h3>🛡️ Socials</h3>
+      <a href="https://medium.com/@dovidee"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
       <a href="https://hackerone.com/dovidee"><img src="https://img.shields.io/badge/-HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white" /></a>
       <a href="https://app.hackthebox.com/users/1764014"><img src="https://img.shields.io/badge/-HackTheBox-9fe117?style=flat-square&logo=hackthebox&logoColor=white" /></a>
       <a href="https://tryhackme.com/p/dovidee"><img src="https://img.shields.io/badge/TryHackMe-ff0000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
