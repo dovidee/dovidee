@@ -26,18 +26,18 @@
         <li><b>B.S. Information Technology</b> - 2nd Year (In progress)</li>
         <li><b>HTB CPTS</b> – <code>[██████████] 100%</code> (Exam Candidate)</li>
       </ul>
-      <h4>🛠️ Technical Arsenal</h4>
+      <h4>🛠️ Tech</h4>
       <ul>
         <li><b>Languages:</b> <code>Pyret</code> <code>Python</code> <code>C#</code> <code>Bash</code></li>
         <li><b>Infrastructure:</b> <code>Linux</code> <code>AD/GPO</code> <code>Docker</code> <code>KVM</code></li>
       </ul>
-      <h4>🔬 Current Labs</h4>
+      <h4>🔬 Labs</h4>
       <ul>
         <li><b>Internal Maneuvering:</b> Exploring pivoting techniques and lateral movement.</li>
         <li><b>Access Logic:</b> Access control and IDOR vulnerabilities.</li>
         <li><b>Identity:</b> Active Directory attacks in lab environments <code>(HTB/THM)</code></li>
       </ul>
-      <h4>🚀 Projects</h4>
+      <h4>🏠 Projects</h4>
       <ul>
         <li><b><a href="https://github.com/dovidee/vigil">Vigil</a></b> – Modular, high-concurrency recon framework.</li>
         <li><b><a href="https://github.com/letsgorm/KartverketProject">Kartverket</a></b> – Aviation obstacle registration system.</li>
