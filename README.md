@@ -33,9 +33,9 @@
       </ul>
       <h4>🔬 Current Labs</h4>
       <ul>
-        <li><b>Forensics:</b> Memory corruption & process hollowing <code>(Volatility 3)</code></li>
-        <li><b>Maneuvering:</b> Advanced pivoting & lateral movement</li>
-        <li><b>Identity:</b> Active Directory attack vectors <code>(HTB/THM)</code></li>
+        <li><b>Internal Maneuvering:</b> Exploring pivoting techniques and lateral movement.</li>
+        <li><b>Access Logic:</b> Access control and IDOR vulnerabilities.</li>
+        <li><b>Identity:</b> Active Directory attacks in lab environments <code>(HTB/THM)</code></li>
       </ul>
       <h4>🚀 Projects</h4>
       <ul>
