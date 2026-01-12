@@ -29,13 +29,13 @@
       </ul>
       <h4>🛠️ Tech</h4>
       <ul>
-        <li><b>Languages:</b> <code>Pyret</code> <code>Python</code> <code>C#</code> <code>Bash</code></li>
+        <li><b>Languages:</b> <code>Pyret</code> <code>Python</code> <code>C#</code> <code>Bash</code> <code>MySQL</code> </li>
         <li><b>Infrastructure:</b> <code>Linux</code> <code>AD/GPO</code> <code>Docker</code> <code>VirtualBox</code></li>
       </ul>
       <h4>🔬 Labs</h4>
       <ul>
         <li><b>Internal Maneuvering:</b> Exploring pivoting techniques and lateral movement.</li>
-        <li><b>Access Logic:</b> Access control and IDOR vulnerabilities.</li>
+        <li><b>Vulnerabilities:</b> Access control and IDOR vulnerabilities.</li>
         <li><b>Identity:</b> Active Directory attacks in lab environments <code>(HTB/THM)</code></li>
       </ul>
       <h4>🏠 Projects</h4>
