@@ -29,7 +29,7 @@
       </ul>
       <h4>🛠️ Tech</h4>
       <ul>
-        <li><b>Languages:</b> <code>Pyret</code> <code>Python</code> <code>C#</code> <code>Bash</code> <code>MySQL</code> </li>
+        <li><b>Languages:</b> <code>Pyret</code> <code>Python</code> <code>C#</code> <code>Bash</code> <code>SQL</code> </li>
         <li><b>Infrastructure:</b> <code>Linux</code> <code>AD/GPO</code> <code>Docker</code> <code>VirtualBox</code></li>
       </ul>
       <h4>🔬 Labs</h4>
