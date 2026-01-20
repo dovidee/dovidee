@@ -24,8 +24,8 @@
       <hr />
       <h4>🎓 Education</h4>
       <ul>
-        <li><b>B.S. Information Technology</b> - 2nd Year (In progress)</li>
-        <li><b>HTB CPTS</b> – <code>[██████████] 100%</code> (Exam Candidate)</li>
+        <li><b>B.S. Information Technology</b> - 2nd Year (In Progress)</li>
+        <li><b>HTB CPTS</b> – <code>100%</code> (Exam Candidate)</li>
       </ul>
       <h4>🛠️ Tech</h4>
       <ul>
@@ -34,14 +34,9 @@
       </ul>
       <h4>🔬 Labs</h4>
       <ul>
-        <li><b>Internal Maneuvering:</b> Exploring pivoting techniques and lateral movement.</li>
-        <li><b>Vulnerabilities:</b> Access control and IDOR vulnerabilities.</li>
-        <li><b>Identity:</b> Active Directory attacks in lab environments <code>(HTB/THM)</code></li>
-      </ul>
-      <h4>🏠 Projects</h4>
-      <ul>
-        <li><b><a href="https://github.com/dovidee/vigil">Vigil</a></b> – Modular, high-concurrency recon framework.</li>
-        <li><b><a href="https://github.com/letsgorm/KartverketProject">Kartverket</a></b> – Aviation obstacle registration system.</li>
+        <li><b>Internal Maneuvering:</b> Analyzing lateral movement techniques to understand attack paths</li>
+        <li><b>Vulnerabilities:</b> Investigated access control and IDOR flaws</li>
+        <li><b>Identity:</b> Simulated Active Directory attacks in lab environments to study misconfigurations</code></li>
       </ul>
     </td>
   </tr>
