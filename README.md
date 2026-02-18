@@ -25,6 +25,12 @@
       <h4>🎓 Education</h4>
       <ul>
         <li><b>B.S. Information Technology</b> - 2nd Year (In Progress)</li>
+      </ul>
+      <h4>📜 Certificates</h4>
+      <ul>
+          <li><b>THM</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RV282XKSP8.pdf" target="_blank">
+            Jr Penetration Tester
+        </a></li>
         <li><b>HTB CPTS</b> – <code>100%</code> (Exam Candidate)</li>
       </ul>
       <h4>🛠️ Tech</h4>
