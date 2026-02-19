@@ -40,9 +40,9 @@
       </ul>
       <h4>🔬 Labs</h4>
       <ul>
-        <li><b>Internal Maneuvering:</b> Analyzing lateral movement techniques to understand attack paths</li>
-        <li><b>Vulnerabilities:</b> Investigated access control and IDOR flaws</li>
-        <li><b>Identity:</b> Simulated Active Directory attacks in lab environments to study misconfigurations</code></li>
+        <li><b>Web Application Security:</b> Identified access control and data exposure vulnerabilities in production applications</li>
+        <li><b>Active Directory:</b> Studied common AD attack paths including Kerberos abuse, credential harvesting, and lateral movement through structured lab scenarios</li>
+        <li><b>Reconnaissance:</b> Practiced subdomain discovery, directory fuzzing, and service enumeration to identify attack surfaces across lab environments</code></li>
       </ul>
     </td>
   </tr>
