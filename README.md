@@ -29,7 +29,7 @@
       <h4>📜 Certificates</h4>
       <ul>
         <li><b>TryHackMe: February 27, 2026</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FR6QOJYEBD.pdf" target="_blank">Pre Security (New) Certificate</a></li>
-        <li><b>HackTheBox: August 1, 2025</b> – Path completed (no certificate)</li>
+        <li><b>HackTheBox Certified Penetration Testing Specialist: August 1, 2025</b> – Path completed (no certificate)</li>
         <li><b>TryHackMe: July 2, 2023</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RV282XKSP8.pdf" target="_blank">Jr Penetration Tester</a></li>
       </ul>
       <h4>🛠️ Tech</h4>
