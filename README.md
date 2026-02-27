@@ -24,14 +24,13 @@
       <hr />
       <h4>🎓 Education</h4>
       <ul>
-        <li><b>B.S. Information Technology</b> - 2nd Year (In Progress)</li>
+        <li><b>Bachelor in Information Technology: August 2024 - July 2027</b></li>
       </ul>
       <h4>📜 Certificates</h4>
       <ul>
-          <li><b>THM</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RV282XKSP8.pdf" target="_blank">
-            Jr Penetration Tester
-        </a></li>
-        <li><b>HTB CPTS</b> – <code>100%</code> (Exam Candidate)</li>
+        <li><b>TryHackMe: February 27, 2026</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FR6QOJYEBD.pdf" target="_blank">Pre Security (New) Certificate</a></li>
+        <li><b>HackTheBox: August 1, 2025</b> – Path completed (no certificate)</li>
+        <li><b>TryHackMe: July 2, 2023</b> – <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RV282XKSP8.pdf" target="_blank">Jr Penetration Tester</a></li>
       </ul>
       <h4>🛠️ Tech</h4>
       <ul>
