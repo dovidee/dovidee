@@ -24,8 +24,8 @@
 ### Sikkerhetsdomener og kompetanse
 
 * **Offensiv sikkerhet:** Identifisering av sårbarheter, bug hunting og strukturert rekognosering på HackerOne.
-* **Defensiv analyse:** Etterforskning av zombienett- og skadevaretrafikk, brute-force-logger og nettverksavvik via CyberDefenders og HTB Sherlocks.
-* **Endepunkttriage:** Analysering av artefakter for å kartlegge kjøringsbaner, signaturtreff og systemendringer under hendelseshåndteringssimuleringer.
+* **Defensiv analyse:** Deteksjon av C2-trafikk, logganalyse og kartlegging av nettverksavvik i CyberDefenders og HTB Sherlocks.
+* **Endepunkttriage:** Artefaktanalyse, kartlegging av prosesskjeder og sporing av systemendringer under SOC-simuleringer.
 
 ### Praktiske IT-sikkerhetslabber & Plattformer
 
